@@ -1,4 +1,4 @@
-# javascript-memory-card-game
+# Memory Card Game
 JavaScript, HTML and CSS card game
 
 This is a browser-based game that allows users to test their memory skills by matching pairs of cards. The game is written in JavaScript, CSS, and HTML.
@@ -9,5 +9,5 @@ The game keeps track of the user's progress by displaying the number of clicks. 
 
 This memory card game is a fun and engaging way to test your memory and improve your cognitive skills. It is a great tool for both children and adults, and can be played alone or with friends and family.
 
-# screenshot
+# Screenshot
 <img src="screen.jpg">
