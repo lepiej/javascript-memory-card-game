@@ -9,5 +9,8 @@ The game keeps track of the user's progress by displaying the number of clicks. 
 
 This memory card game is a fun and engaging way to test your memory and improve your cognitive skills. It is a great tool for both children and adults, and can be played alone or with friends and family.
 
+# Play the game online
+https://lepiej.github.io/javascript-memory-card-game/
+
 # Screenshot
 <img src="screen.jpg">
